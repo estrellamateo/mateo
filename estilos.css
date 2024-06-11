@@ -1,0 +1,39 @@
+#bloc-uno {       blackground :rgb(237 , 215 , 177 )   }
+width :30% ;
+
+}
+
+ h2 , #genero ,#foto1, p { 
+     text-aling :center ;
+    
+    }
+#foto img { display : block ;
+           margin:0 auto ;
+           witch .100 px;
+           height:auto;
+           
+        }
+        h2 , # genero { color :#fff;
+        }
+
+        dc ,  color :#fff;
+
+        #bloc-uno { width :50%
+            margin :000 50 px;
+            
+        }
+        
+        #block-uno, #bloc-dos{
+            display :inline-block;
+            vertical-align:top;
+
+            #bloc-tres{
+
+                width : 50%;
+                margin : 0 0 0 50 px;
+
+                #bloc-tres {
+                    display:inline-black;
+                    vertical-aling:top;
+                    
+}
